@@ -14,7 +14,7 @@ const translation = {
     newChatDefaultName: 'New conversation',
     resetChat: 'Reset conversation',
     viewChatSettings: 'View chat settings',
-    poweredBy: 'Powered by',
+    poweredBy: '', // Boş string ile değiştirdik
     prompt: 'Prompt',
     privatePromptConfigTitle: 'Conversation settings',
     publicPromptConfigTitle: 'Initial Prompt',
